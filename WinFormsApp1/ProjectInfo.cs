@@ -9,12 +9,12 @@ namespace WinFormsApp1
         public const string Title = "ระบบสั่งเครื่องดื่มและเบเกอรี่";
         public const string Subtitle = "โปรแกรมรับออเดอร์ร้านกาแฟด้วย Windows Forms";
 
-        public const string Member1Name = "ชื่อ-นามสกุล สมาชิกคนที่ 1";
-        public const string Member1Id = "รหัสนิสิต XXXXXXXXXX";
+        public const string Member1Name = "ปริยกร ผาสุข";
+        public const string Member1Id = "รหัสนิสิต 6942064526";
         public const string Member1Photo = "member1.jpg";
 
-        public const string Member2Name = "ชื่อ-นามสกุล สมาชิกคนที่ 2";
-        public const string Member2Id = "รหัสนิสิต XXXXXXXXXX";
+        public const string Member2Name = "ธณกร เปี่ยมสุขคูสกุล";
+        public const string Member2Id = "รหัสนิสิต 6942044026";
         public const string Member2Photo = "member2.jpg";
     }
 }
